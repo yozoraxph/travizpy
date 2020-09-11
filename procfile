@@ -1,1 +1,1 @@
-web: python3 convo0.py
+web: python convo0.py runserver
